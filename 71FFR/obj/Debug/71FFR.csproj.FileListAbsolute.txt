@@ -1,0 +1,45 @@
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\bin\Debug\71FFR.exe.config
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\bin\Debug\71FFR.exe
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\bin\Debug\71FFR.pdb
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.csprojAssemblyReference.cache
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.Form1.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.Properties.Resources.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.csproj.GenerateResource.cache
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.csproj.CoreCompileInputs.cache
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.exe
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.pdb
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.Hints.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.UCLogin1.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.home.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.About.resources
+E:\TUGASKULIAH\PRAKTIKUMDKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.Menu.resources
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\bin\Debug\71FFR.exe.config
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\bin\Debug\71FFR.exe
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\bin\Debug\71FFR.pdb
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.csprojAssemblyReference.cache
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.About.resources
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.Form1.resources
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.Hints.resources
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.home.resources
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.Menu.resources
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.Properties.Resources.resources
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\_71FFR.UCLogin1.resources
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.csproj.GenerateResource.cache
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.csproj.CoreCompileInputs.cache
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.exe
+E:\KULIAH\TUGAS KULIAH\PRAK. DKP\MODUL 8\71FFR\71FFR\obj\Debug\71FFR.pdb
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\bin\Debug\71FFR.exe.config
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\bin\Debug\71FFR.exe
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\bin\Debug\71FFR.pdb
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\71FFR.csprojAssemblyReference.cache
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\_71FFR.About.resources
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\_71FFR.Form1.resources
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\_71FFR.Hints.resources
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\_71FFR.home.resources
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\_71FFR.Menu.resources
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\_71FFR.Properties.Resources.resources
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\_71FFR.UCLogin1.resources
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\71FFR.csproj.GenerateResource.cache
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\71FFR.csproj.CoreCompileInputs.cache
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\71FFR.exe
+D:\Portofolio\Programing\C#\71 Fast Food Restaurant\71FFR\obj\Debug\71FFR.pdb
